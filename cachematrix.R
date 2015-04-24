@@ -41,4 +41,8 @@ cacheSolve <- function(x, ...) {
     m <- mean(data, ...)
     x$setmean(m)
     m
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
